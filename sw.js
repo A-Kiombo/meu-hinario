@@ -1,6 +1,6 @@
 const CACHE_NAME = 'hinario-v1';
 const ASSETS = [
-  './hinario.html',
+  './index.html',
   './manifest.json'
 ];
 
@@ -18,4 +18,5 @@ self.addEventListener('fetch', (e) => {
       return response || fetch(e.request);
     })
   );
+
 });
