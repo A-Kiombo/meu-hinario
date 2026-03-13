@@ -1,7 +1,7 @@
 {
-  "name": "Meu Hinário Digital",
+  "name": "Hinário Kikongo",
   "short_name": "Hinário",
-  "start_url": "hinario.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2c3e50",
   "theme_color": "#2c3e50",
@@ -18,4 +18,5 @@
       "type": "image/png"
     }
   ]
+
 }
